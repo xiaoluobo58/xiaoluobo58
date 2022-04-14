@@ -1,0 +1,3 @@
+-  Hi, I’m Misaka Milobo
+-  I’m interested in ACGN
+-  I’m currently learning computer science
