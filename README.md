@@ -1,3 +1,3 @@
--  Hi, I’m Misaka Milobo
--  I’m interested in ACGN
--  I’m currently learning computer science
+-  Hi There, Welcome to Misaka Milobo's Github Space
+-  Interested in ACGN,Computer Science,Music,Wear
+-  Learn with passion
